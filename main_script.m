@@ -1,6 +1,6 @@
 clear
-folder_Dom = 'C:\Users\shrut\Desktop\Saurabh_ML\Dominican_Republic';
-folder_Hat = 'C:\Users\shrut\Desktop\Saurabh_ML\Haiti';
+folder_Dom = 'C:\Users\shruti\Desktop\Dominican_Republic';
+folder_Hat = 'C:\Users\shruti\Desktop\Haiti';
 
 %%%%%%%%%%%%%%%%%%% Parameters to choose %%%%%%%%%%%%%%%%%%
 patch_size = 128;
